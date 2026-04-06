@@ -68,4 +68,4 @@ LLMs | LangGraph | AWS | Computer Vision | NLP
 ---
 
 ## 📫 Connect
-- LinkedIn: (add your link here)
+- LinkedIn: www.linkedin.com/in/vibhuti-c-4372b232a 
