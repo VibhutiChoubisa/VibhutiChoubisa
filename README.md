@@ -1,5 +1,5 @@
 # Hi, I'm Vibhuti 👋
-🤖 AI Researcher | Robotics | LLM Systems | Quantum ML 
+🤖 AI ML Engineer | LLM Systems | Data Engineering
 🎓 MSc Machine Learning & Deep Learning
 🎓 MTech Computer Engineering 
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔬 Research & Interests
+## Interests
 - LLMs for robotics and intelligent systems  
 - Retrieval-Augmented Generation (RAG) systems  
 - Quantum-Enhanced Graph Neural Networks (Q-GNNs)  
@@ -66,6 +66,3 @@ Python | PyTorch | TensorFlow | ROS2 | Gazebo
 LLMs | LangGraph | AWS | Computer Vision | NLP  
 
 ---
-
-## 📫 Connect
-- LinkedIn: www.linkedin.com/in/vibhuti-c-4372b232a 
